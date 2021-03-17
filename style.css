@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  width: 100%;
+  height: 70px;
+}
+
+header.title {
+  font-size: 32px;
+}
+
+.nav-list {
+  list-style: none;
+  display: inline-block;
+}
